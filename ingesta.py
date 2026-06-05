@@ -1,3 +1,4 @@
+# Taller Unidad 4 - Makeup API → MongoDB | taller4_db > raw_data | 931 productos
 """
 ingesta.py
 ----------
